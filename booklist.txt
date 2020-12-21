@@ -1,6 +1,7 @@
 Arrange books alphabetically
 
 "Born a Crime" by Trevor Noah
+"How to Eat Upil" by Zaki 
 "Oathbringer" by Brandon Sanderson
 "Red Rising" by Pierce Brown
 "The Hobbit, or There and Back Again" by J.R.R Tolkien
